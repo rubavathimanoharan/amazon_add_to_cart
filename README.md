@@ -1,3 +1,4 @@
 # Functionalities 
-## Login <br />
-## Add a product to cart<br />
+## Open Amazon shopping website<br />
+## Login using Username and password<br />
+## Adding a product to the cart<br />
